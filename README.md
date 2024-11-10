@@ -1,1 +1,1 @@
-# Statistical-Data-Analysis-and-Inference-
+# Statistical Data Analysis
