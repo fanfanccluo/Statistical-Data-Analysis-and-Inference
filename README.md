@@ -1,4 +1,3 @@
 # Statistical Data Analysis
-
-## A collection of statistical reports
+### A collection of statistical reports
 
